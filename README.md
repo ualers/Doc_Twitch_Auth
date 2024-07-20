@@ -2,7 +2,21 @@
 
 ## Índice
 - [How to Authenticate to Twitch on AI Stream Twitch OBS](#Authenticate)
-
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 # Authenticate 
 * **Versao**: 1.0.0                                                                   
 ***(20/07/2024)***
