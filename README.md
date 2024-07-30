@@ -18,7 +18,26 @@
 #
 #
 # Authenticate 
-* **Versao**: 1.0.0                                                                   
+# Scopes
+* **channel:manage:broadcast**: 
+- Manage a channel’s broadcast configuration, including updating channel configuration and managing stream markers and stream tags.
+* **channel:read:polls**: 
+- View a channel’s polls.
+* **channel:manage:polls**: 
+- Manage a channel’s polls.
+* **clips:edit**: 
+- Manage Clips for a channel.
+* **user:read:emotes**: 
+- View emotes available to a user
+
+
+
+
+
+
+
+
+* **Versao**: 1.0.0    
 ***(20/07/2024)***
 Updates da versao 1.0.0:
 * **Authenticate Url**: 
