@@ -41,7 +41,8 @@
 ***(20/07/2024)***
 Updates da versao 1.0.0:
 * **Authenticate Url**: 
-- [https://id.twitch.tv/oauth2/authorize?response_type=code&client_id=r0ddcirtacq5gg7odbj18pcchs06zq&redirect_uri=https://aistreamtitles.ngrok.app&scope=channel:manage:broadcast](https://id.twitch.tv/oauth2/authorize?response_type=code&client_id=cp6o4757biw49ktvij9o1x6ergm5hv&redirect_uri=https://aistreamtitles.ngrok.app&scope=channel:manage:broadcast)
+- [https://id.twitch.tv/oauth2/authorize?response_type=code&client_id=cp6o4757biw49ktvij9o1x6ergm5hv&redirect_uri=https://aistreamtitles.ngrok.app&scope=channel:manage:broadcast&channel:read:polls&channel:manage:polls&clips:edit&user:read:emotes](https://id.twitch.tv/oauth2/authorize?response_type=code&client_id=cp6o4757biw49ktvij9o1x6ergm5hv&redirect_uri=https://aistreamtitles.ngrok.app&scope=channel:manage:broadcast%20channel:read:polls%20channel:manage:polls%20clips:edit%20user:read:emotes
+)
 
 
 
